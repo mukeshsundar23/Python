@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukeshsundar23
 - 👀 I’m interested in ...Hacking
-- 🌱 I’m currently learning ...Artificial intelligence and Data scince
+- 🌱 I’m currently learning ...Artificial intelligence and Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Mail me : mukeshsundar2362004@gmail.com
 
